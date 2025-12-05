@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "遠くの子守の唄",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2025-12-05T05:12:41.777046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遠くの子守の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/01_遠くの子守の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "遠くの子守の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/02_遠くの子守の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "遠くの子守の唄",
+      "artist": "Yuiko Ōhara",
+      "has_synced": true,
+      "path": "select/03_遠くの子守の唄_Yuiko_Ōhara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遠くの子守の唄",
+      "artist": "Ōhara, Yuiko",
+      "has_synced": true,
+      "path": "select/04_遠くの子守の唄_Ōhara,_Yuiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠くの子守の唄",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_遠くの子守の唄_大原ゆい子.txt"
+    }
+  ]
+}
